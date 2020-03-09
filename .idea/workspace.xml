@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c939c1c1-7bc4-45a0-b044-1d8685f081ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/launchcode/codingevents/models/EventDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/launchcode/codingevents/models/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/launchcode/codingevents/models/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/events/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/events/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/events/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/events/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="coding-events" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="coding-events" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Thymeleaf" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ch-17-exercise-and-studio" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/scottpenneman/coding-events.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XXDG1Z8iArx8uZnXIc8fKBik72" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="coding-events [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.coding-events [bootRun]" />
+        <item itemvalue="Gradle.coding-events [bootRun]" />
+        <item itemvalue="Gradle.coding-events [bootRun]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c939c1c1-7bc4-45a0-b044-1d8685f081ef" name="Default Changelist" comment="" />
+      <created>1581183447180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581183447180</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Finished Chapter 12 up to Exercise">
+      <created>1581476398259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581476398259</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Working Through Chapter 17.3.2">
+      <created>1583612845861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583612845862</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Working Through Chapter 17 Exercise">
+      <created>1583644952219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583644952219</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed Ch 17 Exercise/Studio">
+      <created>1583677685086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583677685086</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed through Ch 18.3">
+      <created>1583683189952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583683189952</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/starter" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/starter" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Finished Chapter 12 up to Exercise" />
+    <MESSAGE value="Working Through Chapter 17.3.2" />
+    <MESSAGE value="Working Through Chapter 17 Exercise" />
+    <MESSAGE value="Completed Ch 17 Exercise/Studio" />
+    <MESSAGE value="Completed through Ch 18.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed through Ch 18.3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1030" y="187" key="#Project_Structure" timestamp="1583679538110">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1030" y="187" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1583679538110" />
+    <state x="284" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1583794494390">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="284" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1583794494390" />
+    <state x="711" y="185" key="CommitChangelistDialog2" timestamp="1583797046414">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="711" y="185" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1583797046414" />
+    <state x="266" y="280" key="FileChooserDialogImpl" timestamp="1583717190256">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="266" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1583717190256" />
+    <state width="912" height="287" key="GridCell.Tab.0.bottom" timestamp="1583796817848">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="912" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583796817848" />
+    <state width="912" height="287" key="GridCell.Tab.0.center" timestamp="1583796817848">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="912" height="287" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583796817848" />
+    <state width="912" height="287" key="GridCell.Tab.0.left" timestamp="1583796817848">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="912" height="287" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583796817848" />
+    <state width="912" height="287" key="GridCell.Tab.0.right" timestamp="1583796817848">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="912" height="287" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583796817848" />
+    <state x="394" y="244" key="MultipleFileMergeDialog" timestamp="1581188995340">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="394" y="244" key="MultipleFileMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581188995340" />
+    <state x="131" y="380" key="Vcs.Push.Dialog.v2" timestamp="1583683194273">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="131" y="380" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1583683194273" />
+    <state x="182" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1583366490898">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="182" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583366490898" />
+    <state x="335" y="241" key="git4idea.branch.GitSmartOperationDialog" timestamp="1583674964840">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="335" y="241" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583674964840" />
+    <state x="0" y="145" key="new project wizard" timestamp="1581185224759">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1581185224759" />
+    <state x="228" y="144" key="refactoring.ChangeSignatureDialog" timestamp="1582079912523">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="228" y="144" key="refactoring.ChangeSignatureDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1582079912523" />
+    <state x="143" y="247" key="run.anything.popup" timestamp="1581286706328">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="143" y="247" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1581286706328" />
+    <state x="1103" y="233" key="search.everywhere.popup" timestamp="1583794323726">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1103" y="233" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1583794323726" />
+  </component>
+</project>
